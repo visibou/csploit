@@ -5,7 +5,7 @@ CSploit is an external CS 1.6 cheat.
 ### Infinite Ammo
 Gives your weapon exactly 40 ammo, but it never ends.
 ### Recoil Assist
-Reduces your weapon recoil.
+Reduces your weapon recoil in over 95%. No recoil (at all!) for close/mid range.
 
 ## Misc. Functions
 ### 10K Cash
